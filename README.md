@@ -3,5 +3,6 @@
 
 ## Code Folders
 [HTML](https://github.com/Xyron-Bot/XN-Snippets/tree/main/HTML)                                                                                             
-[JavaScript](https://github.com/Xyron-Bot/XN-Snippets/tree/main/JavaScript)                                                                                     [Python](https://github.com/Xyron-Bot/XN-Snippets/tree/main/Python)
+[JavaScript](https://github.com/Xyron-Bot/XN-Snippets/tree/main/JavaScript)                                                                                     
+      [Python](https://github.com/Xyron-Bot/XN-Snippets/tree/main/Python)
 
